@@ -1,6 +1,7 @@
 # DynamicComponent
 千言万语敌不过一张动图
 ![动态组件.gif](https://upload-images.jianshu.io/upload_images/2673171-160899c98b73aaeb.gif?imageMogr2/auto-orient/strip)
+
 都是有身份的程序猿，以码会友：
 ```
 const DynamicComponent = {
